@@ -3,3 +3,9 @@
 WIP: on going dev for my local hyprland setup
 
 ...slow is smooth, and smooth is fast
+
+dependency list:
+hyprland
+waybar
+kitty
+ttf-liberation font

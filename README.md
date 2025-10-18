@@ -17,7 +17,7 @@ dependency list
 * **brave**
 * **vs code (code)**
 
-* **Arch Pacstrap**
+* **Arch Linux**
   - **Base System**
     + base
     + linux

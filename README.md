@@ -11,8 +11,9 @@ dependency list
   - kitty
     + fastfetch
   - ttf-liberation font
-* **gnome-keyring**
+  - gnome-keyring
   - libsecret
+
 * **brave**
 * **vs code (code)**
 

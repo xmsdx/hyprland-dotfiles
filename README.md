@@ -13,6 +13,7 @@ dependency list
   - ttf-liberation font
   - gnome-keyring
   - libsecret
+  - hyprpolkitagent
 
 * **brave**
 * **vs code (code)**

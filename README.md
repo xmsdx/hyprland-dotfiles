@@ -17,4 +17,5 @@ dependency list
 
 * **brave**
 * **vs code (code)**
+* SDDM theme * https://github.com/uiriansan/SilentSDDM
 
